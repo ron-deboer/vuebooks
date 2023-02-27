@@ -1,0 +1,126 @@
+{
+    "control": [
+        {
+            "id": 1,
+            "appname": "Vue Books",
+            "bank1": "Savings Account",
+            "bank2": "Debit Card 1",
+            "bank3": "Debit Card 2",
+            "bank4": "Credit Card 1",
+            "bank5": "Credit Card 2",
+            "bank6": "Investment Account",
+            "bank7": "",
+            "bank8": ""
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Salary/Wages",
+            "description": "Salary or Wages",
+            "type": "I"
+        },
+        {
+            "id": 2,
+            "name": "Investments/Interest",
+            "description": "Investments or Interest",
+            "type": "I"
+        },
+        {
+            "id": 3,
+            "name": "Sales/Services",
+            "description": "Sales of Goods or Services",
+            "type": "I"
+        },
+        {
+            "id": 4,
+            "name": "Vehicles/Maintence",
+            "description": "Vehicles/Vehicle Maintence",
+            "type": "E"
+        },
+        {
+            "id": 5,
+            "name": "Property/Maintence",
+            "description": "Property/Property Maintence",
+            "type": "E"
+        },
+        {
+            "id": 6,
+            "name": "Food/Groceries",
+            "description": "Food or Groceries",
+            "type": "E"
+        },
+        {
+            "id": 7,
+            "name": "Clothes",
+            "description": "Clothes",
+            "type": "E"
+        },
+        {
+            "id": 8,
+            "name": "Health Care",
+            "description": "Health Care",
+            "type": "E"
+        },
+        {
+            "id": 9,
+            "name": "Electronics/Phones",
+            "description": "Electronics or Phones",
+            "type": "E"
+        },
+        {
+            "id": 10,
+            "name": "Internet/Mobile",
+            "description": "Internet or Mobile Plans",
+            "type": "E"
+        },
+        {
+            "id": 11,
+            "name": "Professional Services",
+            "description": "Professional Services and Advice",
+            "type": "E"
+        },
+        {
+            "id": 12,
+            "name": "Transport",
+            "description": "Transport or Taxis",
+            "type": "E"
+        },
+        {
+            "id": 13,
+            "name": "Education",
+            "description": "Education or Courses",
+            "type": "E"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "email": "ron@email.com",
+            "password": "12345678",
+            "role": "A",
+            "active": "true"
+        },
+        {
+            "id": 2,
+            "email": "user1@email.com",
+            "password": "12345678",
+            "role": "A",
+            "active": "true"
+        },
+        {
+            "id": 3,
+            "email": "user2@email.com",
+            "password": "12345678",
+            "role": "A",
+            "active": "true"
+        },
+        {
+            "email": "iii@email.com",
+            "password": "xxxyyyzzz",
+            "role": "U",
+            "active": true,
+            "id": 4
+        }
+    ]
+}
